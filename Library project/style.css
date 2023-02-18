@@ -1,0 +1,37 @@
+.form-group row input{
+    width: 20px;
+}
+body{
+    background-color: black;
+    color: white;
+    margin:0;
+    padding: 0;
+}
+.form-control{
+    width: 30%;
+    background:black;
+    color: white;
+}
+
+.btn {
+    background: white;
+    color: black;
+    width: 50%;
+    border: 2px solid gray;
+    height: 40px;
+    overflow: auto;
+    padding-bottom: 5px;
+    border: none;
+}
+
+thead{
+    color :black;
+}
+
+#tableBody{
+    color: white;
+}
+
+thead{
+    color:white
+}
